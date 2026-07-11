@@ -29,6 +29,16 @@ Currently showcasing interactive dashboards focused on business reporting, HR an
 
 ---
 
+## 🛒 Ecommerce Sales Dashboard
+
+[![Ecommerce Sales Dashboard](./Ecommerce%20Sales%20Dashboard/Ecommerce%20Sales%20Dashboard.png)](./Ecommerce%20Sales%20Dashboard)
+
+**Ecommerce sales dashboard focused on sales performance, revenue trends, product analysis, customer insights, and business growth metrics.**
+
+🔗 **Click the dashboard image or title to open the project.**
+
+---
+
 ## 🛠 Skills
 - Power BI
 - DAX
