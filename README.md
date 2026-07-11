@@ -59,6 +59,16 @@ Currently showcasing interactive dashboards focused on business reporting, HR an
 
 ---
 
+## 🛍️ Online Sales Dashboard 2022-2023
+
+[![Online Sales Dashboard 2022-2023](./Online%20Sales%20Dashboard%202022-2023/Online%20Sales%20Dashboard%202022-2023.png)](./Online%20Sales%20Dashboard%202022-2023)
+
+**Interactive Power BI dashboard for analyzing online sales performance across revenue, orders, customers, products, brands, payment methods, and regional trends during 2022–2023.**
+
+🔗 **Click the dashboard image or title to open the project.**
+
+---
+
 ## 🛠 Skills
 - Power BI
 - DAX
