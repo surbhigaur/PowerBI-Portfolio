@@ -4,6 +4,8 @@
 
 Welcome to my Power BI portfolio. This repository contains my dashboard projects created using Power BI, DAX, Power Query, SQL, and Excel.
 
+Currently showcasing interactive dashboards focused on business reporting, HR analytics, and data-driven insights.
+
 ---
 
 ## 📁 Projects
