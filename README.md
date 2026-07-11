@@ -8,11 +8,13 @@ Welcome to my Power BI portfolio. This repository contains my dashboard projects
 
 ## 📁 Projects
 
-### 📈 Top Line Report
-Business performance dashboard with interactive KPIs, charts, and slicers.
+## 📈 Top Line Report
 
-📂 Open Project:
-**Top Line Report/**
+[![Top Line Report](./Top%20Line%20Report/dashboard.png)](./Top%20Line%20Report)
+
+**Business performance dashboard with interactive KPIs, charts, and slicers.**
+
+🔗 **Click the dashboard image or title to open the project.**
 
 ---
 
