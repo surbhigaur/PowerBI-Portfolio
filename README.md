@@ -49,6 +49,16 @@ Currently showcasing interactive dashboards focused on business reporting, HR an
 
 ---
 
+## 📞 Call Center Dashboard
+
+[![Call Center Dashboard](./Call%20Center%20Dashboard/Call%20Center%20Dashboard.png)](./Call%20Center%20Dashboard)
+
+**Interactive Power BI dashboard for monitoring call center performance, customer satisfaction, call handling metrics, agent productivity, and operational insights.**
+
+🔗 **Click the dashboard image or title to open the project.**
+
+---
+
 ## 🛠 Skills
 - Power BI
 - DAX
