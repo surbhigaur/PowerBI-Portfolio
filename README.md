@@ -1,29 +1,28 @@
-# 📊 Top Line Report
+# 👋 Hi, I'm Surbhi Gaur
 
-## 📌 Project Overview
-This Power BI dashboard provides an interactive analysis of business performance using KPIs, charts, trends, and slicers to help users make data-driven decisions.
+## 📊 Power BI Portfolio
 
-## 🖼 Dashboard Preview
-
-![Dashboard](dashboard.png)
-
-## 🛠 Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Excel
-
-## 📈 Key Features
-- Interactive slicers
-- KPI Cards
-- Trend Analysis
-- Business Performance Overview
-- Dynamic Visualizations
-
-## 📂 Files Included
-- 📊 Top Line Report.pbix
-- 📄 Top Line Report.pdf
-- 🖼 dashboard.png
+Welcome to my Power BI portfolio. This repository contains my dashboard projects created using Power BI, DAX, Power Query, SQL, and Excel.
 
 ---
-⭐ If you like this project, feel free to star this repository!
+
+## 📁 Projects
+
+### 📈 Top Line Report
+Business performance dashboard with interactive KPIs, charts, and slicers.
+
+📂 Open Project:
+**Top Line Report/**
+
+---
+
+## 🛠 Skills
+- Power BI
+- DAX
+- Power Query
+- SQL
+- Excel
+
+---
+
+Thank you for visiting my portfolio!
