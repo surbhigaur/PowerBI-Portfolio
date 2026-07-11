@@ -19,7 +19,7 @@ Welcome to my Power BI portfolio. This repository contains my dashboard projects
 ---
 ## 👥 HR Analytics Dashboard
 
-[![HR Analytics Dashboard](./HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.png)](./HR%20Analytics%20Dashboard)
+[![HR Analytics Dashboard](./HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.png)](./HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.png)
 
 **Employee analytics dashboard focused on workforce insights, attrition analysis, employee demographics, and HR performance metrics.**
 
