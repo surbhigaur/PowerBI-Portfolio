@@ -39,6 +39,16 @@ Currently showcasing interactive dashboards focused on business reporting, HR an
 
 ---
 
+## 👥 Customer Retention Dashboard
+
+[![Customer Retention Dashboard](./Customer%20Retention%20Dashboard/Customer%20Retention%20Dashboard.png)](./Customer%20Retention%20Dashboard)
+
+**Interactive Power BI dashboard focused on customer churn analysis, retention trends, customer demographics, contract types, payment methods, and revenue insights.**
+
+🔗 **Click the dashboard image or title to open the project.**
+
+---
+
 ## 🛠 Skills
 - Power BI
 - DAX
